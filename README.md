@@ -51,7 +51,7 @@ I build **backend APIs, web applications, mobile apps, and coursework projects**
 ---
 
 ## 📊 GitHub Stats
-![Dilshanthanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilshanthanu&show_icons=true&theme=github_dark)
+![Dilshanthanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilshanthanu&show_icons=true&theme=github_dark&rank_icon=github&cache_seconds=86400)
 
 ---
 
