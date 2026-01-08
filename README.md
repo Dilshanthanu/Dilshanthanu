@@ -8,15 +8,24 @@
 
 ---
 
+<div align="center">
+
 ## 👋 Hi, I'm **Dilshan Thanushka**
 🎓 **Software Developer | Backend, Web & Mobile Applications**
+
+</div>
 
 Welcome to my GitHub!  
 I build **scalable backend APIs, modern web applications, and mobile apps** with a strong focus on clean code, performance, and real-world use cases 🚀
 
 ---
 
+<div align="center">
+
 ## 🧠 About Me
+
+</div>
+
 - 💻 Backend developer using **Java (Spring Boot)** and **.NET**
 - 🌐 Modern web development with **React, Next.js, Tailwind CSS & SCSS**
 - 🐍 Experienced with **Python** for scripting, automation, and coursework
@@ -26,84 +35,76 @@ I build **scalable backend APIs, modern web applications, and mobile apps** with
 
 ---
 
+<div align="center">
+
 ## 🧑‍💻 Tech Stack
 
 ### 🔹 Backend
-Java • Spring Boot • .NET • Node.js • REST APIs
-
-### 🔹 Frontend
-React • Next.js • Tailwind CSS • SCSS • TypeScript • JavaScript
-
-### 🔹 Mobile
-Swift (iOS) • Kotlin (Android)
-
-### 🔹 Databases
-MySQL • PostgreSQL • MongoDB • Oracle
-
-### 🔹 DevOps & Tools
-Git • Docker • AWS • Linux • CI/CD
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Backend & APIs
-- 🔗 **[Health-Care-System-API](https://github.com/Dilshanthanu/Health-Care-System-API)**  
-  Spring Boot backend for healthcare management
-
-- 🔗 **[Book-Store-API](https://github.com/Dilshanthanu/Book-Store-API)**  
-  RESTful API for book management
-
-- 🔗 **[Real-Time-Event-Ticketing-System](https://github.com/Dilshanthanu/Real-Time-Event-Ticketing-System)**  
-  Event ticket booking backend system
-
----
-
-### 🔹 Web Applications
-- 🔗 **[Portfolio Website](https://github.com/Dilshanthanu/portfolio)**  
-  Built using React & Next.js
-
-- 🔗 **[Home-Quest](https://github.com/Dilshanthanu/Home-Quest)**  
-  Client-side coursework web application
-
----
-
-### 🔹 Mobile Applications
-- 🔗 **[MovieMate (Swift)](https://github.com/Dilshanthanu/MovieMate)**  
-  iOS application for movie browsing
-
-- 🔗 **[Dice Game (Kotlin)](https://github.com/Dilshanthanu/Dice-Game)**  
-  Android mobile game
-
----
-
-### 🔹 Coursework
-- 🔗 **[Python Coursework – Year 1](https://github.com/Dilshanthanu/Python-Coursework)**  
-  Python programming assignments
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dilshanthanu&theme=darkhub&no-frame=true&row=1" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs" />
 </p>
 
+Java • Spring Boot • .NET • Node.js • REST APIs
+
 ---
 
+### 🔹 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,scss,ts,js" />
+</p>
+
+React • Next.js • Tailwind CSS • SCSS • TypeScript • JavaScript
+
+---
+
+### 🔹 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,kotlin" />
+</p>
+
+Swift (iOS) • Kotlin (Android)
+
+---
+
+### 🔹 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" />
+</p>
+
+MySQL • PostgreSQL • MongoDB • Oracle
+
+---
+
+### 🔹 DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,githubactions" />
+</p>
+
+Git • Docker • AWS • Linux • CI/CD
+
+</div>
+
+---
+
+<div align="center">
+
 ## 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=Dilshanthanu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Dilshanthanu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshanthanu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <h3 style="color:#ff4d4d;">My Statistics</h3>
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Dilshanthanu&bg_color=121112&color=ff4d4d&line=3ac1cb&point=ffcc00&area=true&hide_border=true" 
-    alt="Dilshan Thanushka Activity Graph" 
-  />
+<h3 style="color:#ff4d4d;">My Statistics</h3>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Dilshanthanu&bg_color=121112&color=ff4d4d&line=3ac1cb&point=ffcc00&area=true&hide_border=true" 
+  alt="Dilshan Thanushka Activity Graph" 
+/>
+
 </div>
 
 ---
+
+<div align="center">
 
 ## 🐍 Contribution Graph
 
@@ -113,16 +114,27 @@ Git • Docker • AWS • Linux • CI/CD
   <img alt="github-snake" src="https://raw.githubusercontent.com/Dilshanthanu/Dilshanthanu/output/github-snake.svg" />
 </picture>
 
+</div>
 
 ---
 
+<div align="center">
+
 ## 📫 Get in Touch
+
 - 📧 Email: **[dilshanthanushka98@gmail.com](mailto:dilshanthanushka98@gmail.com)**
 - 📸 Instagram: **[@t_h_a_n_u_s_h_k_a_](https://www.instagram.com/t_h_a_n_u_s_h_k_a_)**
 - 💼 Open to **internships, junior developer roles, and collaborations**
 
+</div>
+
 ---
 
+<div align="center">
+
 ## ⭐ Final Note
+
 I enjoy building **scalable systems, clean UIs, and well-documented applications**.  
 Feel free to explore my repositories and reach out — let’s build something great 🚀
+
+</div>
