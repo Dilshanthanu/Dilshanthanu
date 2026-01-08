@@ -116,7 +116,6 @@ Git • Docker • AWS • Linux • CI/CD
 
 ---
 
-<div align="center">
 
 ## 📫 Get in Touch
 
@@ -124,7 +123,6 @@ Git • Docker • AWS • Linux • CI/CD
 - 📸 Instagram: **[@t_h_a_n_u_s_h_k_a_](https://www.instagram.com/t_h_a_n_u_s_h_k_a_)**
 - 💼 Open to **internships, junior developer roles, and collaborations**
 
-</div>
 
 ---
 
