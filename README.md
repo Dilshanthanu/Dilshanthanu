@@ -91,13 +91,17 @@ Git • Docker • AWS • Linux • CI/CD
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dilshanthanu&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Dilshanthanu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Dilshanthanu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshanthanu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshanthanu&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <h3 style="color:#ff4d4d;">My Statistics</h3>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Dilshanthanu&bg_color=121112&color=ff4d4d&line=3ac1cb&point=ffcc00&area=true&hide_border=true" 
+    alt="Dilshan Thanushka Activity Graph" 
+  />
+</div>
 
 ---
 
