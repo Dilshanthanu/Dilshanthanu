@@ -25,13 +25,15 @@ I build **scalable backend APIs, modern web applications, and mobile apps** with
 ## 🧠 About Me
 
 </div>
-
+- 🎓 **Undergraduate at University of Westminster**
+- 💼 **Intern Software Engineer (SE) at Informatics**
 - 💻 Backend developer using **Java (Spring Boot)** and **.NET**
 - 🌐 Modern web development with **React, Next.js, Tailwind CSS & SCSS**
 - 🐍 Experienced with **Python** for scripting, automation, and coursework
 - 📱 Mobile app development using **Swift (iOS)** and **Kotlin (Android)**
 - 🛠️ Strong understanding of **Git, REST APIs, and databases**
 - 📚 Continuously learning and improving my development skills
+
 
 ---
 
